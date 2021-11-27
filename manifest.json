@@ -1,0 +1,27 @@
+{
+  "short_name": "Mish7913",
+  "name": "Mish7913",
+  "description": "Оффіційній сайт Mish7913.",
+  "icons": [
+    {
+      "src": "https://4.bp.blogspot.com/-WkEQb3H73Vs/W56Rfcq5p_I/AAAAAAAADN0/1wO8C0hCY8cf7ngvkxc19KyAlXvrlXbCgCKgBGAs/s60/photo.jpg",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-WkEQb3H73Vs/W56Rfcq5p_I/AAAAAAAADN0/1wO8C0hCY8cf7ngvkxc19KyAlXvrlXbCgCKgBGAs/s192/photo.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-WkEQb3H73Vs/W56Rfcq5p_I/AAAAAAAADN0/1wO8C0hCY8cf7ngvkxc19KyAlXvrlXbCgCKgBGAs/s756/photo.jpg",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#80A746",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
