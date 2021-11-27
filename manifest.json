@@ -9,6 +9,11 @@
       "type": "image/png"
     },
     {
+      "src": "https://4.bp.blogspot.com/-WkEQb3H73Vs/W56Rfcq5p_I/AAAAAAAADN0/1wO8C0hCY8cf7ngvkxc19KyAlXvrlXbCgCKgBGAs/s180/photo.jpg",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
       "src": "https://4.bp.blogspot.com/-WkEQb3H73Vs/W56Rfcq5p_I/AAAAAAAADN0/1wO8C0hCY8cf7ngvkxc19KyAlXvrlXbCgCKgBGAs/s192/photo.jpg",
       "type": "image/png",
       "sizes": "192x192"
@@ -23,5 +28,5 @@
   "display": "standalone",
   "theme_color": "#80A746",
   "background_color": "#ffffff",
-  "orientation": "portrait"
+  "orientation": "none"
 }
